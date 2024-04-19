@@ -19,8 +19,7 @@
 
 <br>
 
-<div align="center">
- 
+<div align="center">  
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img width="12" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />  
@@ -57,6 +56,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />     
   <img width="12" />
+  <img src="https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white" />  
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />      
+  <img width="12" />
+  
 </div>
 
 <br>
@@ -65,3 +69,5 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
+
+Visit: [Fiverr](https://www.fiverr.com/itinteractive)
