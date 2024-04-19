@@ -70,4 +70,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-Visit: [Fiverr](https://www.fiverr.com/itinteractive)
