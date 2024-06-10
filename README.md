@@ -72,6 +72,6 @@
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="images/github-snake.svg" alt="snake"/>
 </p>
 
